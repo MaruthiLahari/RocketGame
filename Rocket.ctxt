@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Rocket
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Rocket\ here.\r\n\ \r\n\ @author\ (Lahari\ Maruthi)\ \r\n\ @version\ (rocket\ e\ rsion\ 1.0\ or\ 24\ th\ 12\ 2020)\r\n
+comment1.params=speed
+comment1.target=Rocket(int)
+comment1.text=below\ constructor\ intailize\ speed\ of\ the\ rocket\ object
+comment2.params=
+comment2.target=void\ act()
+comment2.text=act\ as\ main\ method
+comment3.params=
+comment3.target=void\ moveAround()
+comment3.text=for\ rocket\ contro
+comment4.params=
+comment4.target=void\ wrapAround()
+comment5.params=
+comment5.target=void\ rotate()
+comment6.params=
+comment6.target=void\ fire()
+comment7.params=m
+comment7.target=void\ addMissile(Missile)
+comment8.params=
+comment8.target=void\ dropMissile2()
+comment9.params=
+comment9.target=void\ hitByAsteriod()
+comment9.text=Big\ Explosion\ and\ game\ over\ code
+numComments=10
